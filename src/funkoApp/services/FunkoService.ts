@@ -23,7 +23,7 @@ export class FunkoService {
    * @param username - The name of the user who owns the Funko collection.
    */
   constructor(private username: string) {
-    this.userDir = path.join(__dirname, "..", "..", "data", this.username);
+    this.userDir = path.join(__dirname, "..", "data", this.username);
     if (!fs.existsSync(this.userDir)) {
       fs.mkdirSync(this.userDir, { recursive: true });
     }
