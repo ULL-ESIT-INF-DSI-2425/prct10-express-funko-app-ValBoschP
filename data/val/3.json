@@ -1,0 +1,12 @@
+{
+  "id": "3",
+  "name": "Knuckles the Echidna",
+  "description": "The tough echidna from Sonic",
+  "type": "Pop!",
+  "genre": "Video Games",
+  "franchise": "Sonic The Hedgehog",
+  "number": 305,
+  "exclusive": false,
+  "specialFeatures": "Poseable arms",
+  "marketValue": 30
+}

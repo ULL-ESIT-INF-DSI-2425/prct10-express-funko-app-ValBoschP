@@ -1,0 +1,12 @@
+{
+  "id": "2",
+  "name": "Super Sonic",
+  "description": "The golden hedgehog from Sonic",
+  "type": "Pop!",
+  "genre": "Video Games",
+  "franchise": "Sonic The Hedgehog",
+  "number": 295,
+  "exclusive": true,
+  "specialFeatures": "Glowing in the dark",
+  "marketValue": 40
+}

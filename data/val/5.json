@@ -1,0 +1,12 @@
+{
+  "id": "5",
+  "name": "Amy Rose",
+  "description": "The pink hedgehog with a hammer",
+  "type": "Pop!",
+  "genre": "Video Games",
+  "franchise": "Sonic The Hedgehog",
+  "number": 325,
+  "exclusive": false,
+  "specialFeatures": "Hammer accessory",
+  "marketValue": 28
+}

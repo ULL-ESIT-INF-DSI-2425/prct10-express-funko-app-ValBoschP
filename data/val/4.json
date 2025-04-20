@@ -1,0 +1,12 @@
+{
+  "id": "4",
+  "name": "Tails the Fox",
+  "description": "Sonic's loyal sidekick with two tails",
+  "type": "Pop!",
+  "genre": "Video Games",
+  "franchise": "Sonic The Hedgehog",
+  "number": 315,
+  "exclusive": true,
+  "specialFeatures": "Spinning tails",
+  "marketValue": 33
+}
